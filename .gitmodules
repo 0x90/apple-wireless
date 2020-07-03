@@ -37,3 +37,12 @@
 [submodule "Apple-Signal"]
 	path = Apple-Signal
 	url = https://github.com/kirankunigiri/Apple-Signal
+[submodule "airspy"]
+	path = airspy
+	url = https://github.com/nowsecure/airspy
+[submodule "wireshark-awdl"]
+	path = wireshark-awdl
+	url = https://github.com/seemoo-lab/wireshark-awdl
+[submodule "node-awdl"]
+	path = node-awdl
+	url = https://github.com/derhuerst/node-awdl
