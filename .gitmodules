@@ -1,0 +1,39 @@
+[submodule "opendrop"]
+	path = opendrop
+	url = https://github.com/seemoo-lab/opendrop
+[submodule "AirDoS"]
+	path = AirDoS
+	url = https://github.com/KishanBagaria/AirDoS
+[submodule "trolldrop"]
+	path = trolldrop
+	url = https://github.com/neonichu/trolldrop
+[submodule "airdrop"]
+	path = airdrop
+	url = https://github.com/KyberNetwork/airdrop
+[submodule "WebDrop"]
+	path = WebDrop
+	url = https://github.com/JustinFincher/WebDrop
+[submodule "Androp"]
+	path = Androp
+	url = https://github.com/alfodmlzhsks/Androp
+[submodule "Apple-Remote-Crash-Tool-CVE-2018-4407"]
+	path = Apple-Remote-Crash-Tool-CVE-2018-4407
+	url = https://github.com/anonymouz4/Apple-Remote-Crash-Tool-CVE-2018-4407
+[submodule "raw-packet"]
+	path = raw-packet
+	url = https://github.com/raw-packet/raw-packet
+[submodule "apple_bssid_locator"]
+	path = apple_bssid_locator
+	url = https://github.com/darkosancanin/apple_bssid_locator
+[submodule "owl"]
+	path = owl
+	url = https://github.com/seemoo-lab/owl
+[submodule "apple_bleee"]
+	path = apple_bleee
+	url = https://github.com/hexway/apple_bleee
+[submodule "Airdrop-Crazy"]
+	path = Airdrop-Crazy
+	url = https://github.com/ElevenPaths/Airdrop-Crazy
+[submodule "Apple-Signal"]
+	path = Apple-Signal
+	url = https://github.com/kirankunigiri/Apple-Signal
