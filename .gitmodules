@@ -46,3 +46,6 @@
 [submodule "node-awdl"]
 	path = node-awdl
 	url = https://github.com/derhuerst/node-awdl
+[submodule "apple_call_relay_protocol"]
+	path = apple_call_relay_protocol
+	url = https://github.com/martinvigo/apple_call_relay_protocol
